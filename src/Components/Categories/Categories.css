@@ -51,6 +51,10 @@
   gap: 10px;
 }
 
+.categories__cards--card:hover {
+  border: 1px solid #aca6a6;
+}
+
 .categories__card--img {
   background-color: #c0b2632b;
   border-radius: 50%;

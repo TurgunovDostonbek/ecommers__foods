@@ -22,7 +22,6 @@ function Navbar() {
           </form>
         </div>
 
-
         <div className="navbar__icons flex__center">
           <p className='navbar__icons--icon'><CiUser /> Account</p>
           <p className='navbar__icons--icon'><AiOutlineLike/> Wishlist</p>
