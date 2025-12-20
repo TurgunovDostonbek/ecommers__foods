@@ -9,7 +9,7 @@ import { CiShoppingBasket } from "react-icons/ci";
 function Navbar() {
   return (
     <div className="navbar">
-      <div className="navbar__container container flex__between">
+      <div className="navbar__container flex__between container ">
         <div className="navbar__logo">
           <a className="navbar__logo--link" href="">
             <img className="navbar__logo--img" src={navimg} alt="" />
@@ -21,7 +21,6 @@ function Navbar() {
             <input className='navbar__search--input' placeholder='Search For items...' type="text" />
           </form>
         </div>
-
 
         <div className="navbar__icons flex__center">
           <p className='navbar__icons--icon'><CiUser /> Account</p>
