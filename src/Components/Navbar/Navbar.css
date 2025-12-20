@@ -1,0 +1,19 @@
+.navbar__container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar__icons--icon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.navbar__search--input {
+  width: 600px;
+  height: 45px;
+  border-radius: 8px;
+  border: 1px solid #64B496;
+  padding-left: 20px;
+  outline: none;
+}
