@@ -37,6 +37,7 @@
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
+  gap: 10px;
 }
 
 .categories__cards--card {
@@ -52,7 +53,7 @@
 }
 
 .categories__cards--card:hover {
-  border: 1px solid #aca6a6;
+  border: 1px solid #64b496;
 }
 
 .categories__card--img {
