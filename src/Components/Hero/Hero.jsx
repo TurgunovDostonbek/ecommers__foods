@@ -3,7 +3,8 @@ import "./Hero.css";
 function Hero() {
   return (
     <div className="hero">
-      <div className="hero__container container"></div>
+      <div className="hero__container container">
+      </div>
     </div>
   );
 }
